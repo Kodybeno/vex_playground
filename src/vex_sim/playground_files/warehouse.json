@@ -8,7 +8,8 @@
     { "start": [1800, 0],    "end": [1800, 1800], "height": "low" },
     { "start": [1800, 1800], "end": [0, 1800],    "height": "low" },
     { "start": [0, 1800],    "end": [0, 0],       "height": "low" },
-    { "start": [0, 900],     "end": [900, 900],   "height": 150 }
+    { "start": [0, 1100],     "end": [1000, 1100],   "height": 150 },
+    { "start": [1000, 0],    "end": [1000, 400],  "height": "low" }
   ],
   "floor_regions": [
     {
